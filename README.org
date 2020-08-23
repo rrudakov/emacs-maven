@@ -1,0 +1,6 @@
+#+TITLE: Emacs Maven
+#+AUTHOR: Roman Rudakov
+#+EMAIL: rrudakov@pm.me
+Some handy functions for maven projects.
+* Currently implemented
+- ~maven-open-effective-pom~ :: generate and open effective pom for project.
